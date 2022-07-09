@@ -1,0 +1,33 @@
+{
+  "HosterName": "TBWS",
+  "ServerName": "TBWS",
+  "ClusterName": "TBWS",
+  "IconUrl": "",
+  "Discord": "https://discord.gg/47SFqqMBFN",
+  "ServerDescription":
+  {
+    "MaxDinoLvl": 300,
+    "Taming": 10,
+    "Experience": 5,
+    "Harvesting": 6,
+    "Breeding": 50,
+    "Stacks": 5,
+    "Other":
+    [
+        "Personal settings"
+    ]
+  },
+  "ClusterDescription":
+  {
+    "MaxDinoLvl": 300,
+    "Taming": 10,
+    "Experience": 5,
+    "Harvesting": 6,
+    "Breeding": 50,
+    "Stacks": 5,
+    "Other":
+    [
+        "Personal settings"
+    ]
+  }
+}
